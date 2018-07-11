@@ -8,10 +8,10 @@
 }
 
 .App-header {
-  background-color: #222;
+  background-color: #5fe008;
   height: 80px;
   padding: 20px;
-  color: white;
+  color: rgba(255, 255, 255, 0.85);
 }
 
 .App-title {
@@ -19,7 +19,7 @@
 }
 
 .App-subtitle {
-  color: #666666;
+  color: rgba(255, 255, 255, 0.8);
 }
 
 @keyframes App-logo-spin {

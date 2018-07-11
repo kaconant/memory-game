@@ -28,10 +28,10 @@
 .MemoryCardBack {
     background: repeating-radial-gradient(
         circle,
-        purple,
-        purple 10px,
-        #4b026f 10px, 
-        #4b026f 20px
+        #74e915,
+        #74e915 10px,
+        #95f157 10px, 
+        #95f157  20px
     );
 }
 
@@ -48,6 +48,6 @@
 
 .CardImage {
     width: 60px;
-    padding-top: 27px;
+    padding-top: 10px;
 }
 

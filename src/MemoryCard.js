@@ -27,7 +27,7 @@ class MemoryCard extends Component {
                         {this.props.symbol}
                     </div>
                     <div className="MemoryCardBack">
-                        <img className="CardImage" src="https://www.digitalcrafts.com/img/DigitalCrafts-Logo-Wrench.png" alt="logo" />
+                        <img className="CardImage" src="http://pngimg.com/uploads/camomile/camomile_PNG666.png" alt="logo" />
                     </div>
                 </div>
             </div>
