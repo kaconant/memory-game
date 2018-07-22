@@ -1,5 +1,6 @@
 import React, {Component} from 'react';
 import './MemoryCard.css';
+import { withRouter } from 'react-router-dom';
 
 class MemoryCard extends Component {
     
@@ -35,4 +36,4 @@ class MemoryCard extends Component {
     }
 }
 
-export default MemoryCard;
+export default withRouter(MemoryCard);
