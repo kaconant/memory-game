@@ -38,7 +38,7 @@ class Jobs extends Component {
                 <div className="App">
                 <header className="App-header">
                     <h1 className="App-title">Jobs in Atlanta</h1>
-                    <h4 className="App-subtitle">Click to explore jobs!</h4>
+                    <h4 className="App-subtitle">Work in Progress!</h4>
                 </header>
                 </div>
                 <div className="Jobs">
