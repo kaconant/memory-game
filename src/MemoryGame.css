@@ -7,12 +7,7 @@
   background-image: url("./img/topMemoryGame.jpg"); 
   height: 80px;
   padding: 20px;
-  color: #E5969D;
-  text-shadow:
-		-1px -1px 0 rgb(37, 37, 37),
-		1px -1px 0 rgb(37, 37, 37),
-		-1px 1px 0 rgb(37, 37, 37),
-		1px 1px 0 rgb(37, 37, 37),
+  color: rgb(106, 103, 145);
 }
 
 .App-title {
@@ -20,7 +15,7 @@
 }
 
 .App-subtitle {
-  color: #E5969D;
+  color: #6a6792;
 }
 
 

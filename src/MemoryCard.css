@@ -15,8 +15,8 @@
     transform-style: preserve-3d;
     transition: transform 0.8s cubic-bezier(0.175, 0.885, 0.32, 1.275);
     border-radius: 5px;
-    border: 1px solid rgb(240, 225, 185);
-    box-shadow: 0 6px 16px rgba(0,0,0,0.15);
+    border: 1px solid rgb(159, 158, 175);
+    box-shadow: 0 6px 16px rgb(106, 103, 145, .25);
 }
 
 .MemoryCardFront {
@@ -28,10 +28,10 @@
 .MemoryCardBack {
     background: repeating-radial-gradient(
         circle,
-        #e4f5d5,
-        #c8dbb9 10px,
-        #c9e2b9 10px, 
-        #95f157  20px
+        rgb(245, 203, 212) ,
+        rgb(212, 175, 183) 10px,
+        #F4BBC7 10px, 
+        #F4BBC7  20px
     );
 }
 
