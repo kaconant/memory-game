@@ -130,7 +130,7 @@ class MemoryGame extends Component {
           <h1 className="App-title">Test Your Memory</h1>
           <h4 className="App-subtitle">Match the symbols to win</h4>
         </header>
-
+        <div className="background">
           <div>
           {cardsJSX.slice(0,4)}
           </div>
@@ -143,7 +143,7 @@ class MemoryGame extends Component {
           <div>
           {cardsJSX.slice(12,16)}
           </div>
-          
+        </div>
       </div>
     );
   }

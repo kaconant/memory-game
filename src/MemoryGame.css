@@ -1,13 +1,18 @@
 .App {
   text-align: center;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Fjalla One', sans-serif;
 }
 
 .App-header {
-  background-color: #98EF61;
+  background-image: url("./img/topMemoryGame.jpg"); 
   height: 80px;
   padding: 20px;
-  color: rgba(255, 255, 255, 0.85);
+  color: #E5969D;
+  text-shadow:
+		-1px -1px 0 rgb(37, 37, 37),
+		1px -1px 0 rgb(37, 37, 37),
+		-1px 1px 0 rgb(37, 37, 37),
+		1px 1px 0 rgb(37, 37, 37),
 }
 
 .App-title {
@@ -15,8 +20,9 @@
 }
 
 .App-subtitle {
-  color: rgba(255, 255, 255, 0.8);
+  color: #E5969D;
 }
+
 
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
