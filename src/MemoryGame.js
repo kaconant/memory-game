@@ -4,14 +4,14 @@ import './MemoryGame.css';
 
 function generateDeck() {
   let symbols = [
-    "∆", 
-    "ß", 
-    "£", 
-    "§", 
-    "•", 
-    "$", 
-    "+", 
-    "ø"
+    "☼", 
+    "☾", 
+    "☯", 
+    "◈", 
+    "✢", 
+    "♡", 
+    "♧", 
+    "♤"
   ];
 
   let deck = [];
